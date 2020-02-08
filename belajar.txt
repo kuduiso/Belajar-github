@@ -2,4 +2,6 @@ Ini belajar bro
 	belajar membuat repositori di github
 	belajar wordpress
 	belajar lagi
-	
+
+Ini percobaan kedua
+	membuat branch baru
