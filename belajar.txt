@@ -5,3 +5,6 @@ Ini belajar bro
 
 Ini percobaan kedua
 	membuat branch baru
+
+Yang tadi gagal
+	ini branch baru
